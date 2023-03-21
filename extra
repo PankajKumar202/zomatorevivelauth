@@ -1,0 +1,7 @@
+npm i bcryptjs body-parser cors express jsonwebtoken mongoose
+so here in jwt the token issue is unique for every user so what would be use to generate unique token is the _id
+
+if we dont give res 200 then it would not show response 200 is for response
+and 500 and 404 is for error
+
+jwt is a sign of providing token and verifying that token
